@@ -1,5 +1,5 @@
-# Apache Config File To Secure and Harden Your Web Server
-A secure Apache HTTPD Configuration file for hardening Prod deployments.
+# Apache HTTPD Security Config
+A config file for Apache HTTPD for securing and hardening prod deployments.
 
 # Usage
 ## CentOS
